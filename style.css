@@ -28,6 +28,16 @@ h1{
     font-weight: normal;
     font-size: 60px;
     margin: -150px 0 40px;
+    text-shadow: 0 0 10px 0px rgba(107, 30, 30, 0.5) ;
+}
+
+.countdown{
+    margin: 50px;
+    background-color: white;
+    color: black;
+    box-shadow: 0 0 10px 0px rgba(107, 30, 30, 0.5);
+    padding: 10px;
+    border-radius: 5px;
 }
 
 .countdown{
@@ -41,6 +51,11 @@ h1{
     align-items: center;
     justify-content: center;
     margin: 15px;
+    background-color: black;
+    padding: 20px;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 0px rgba(107, 30, 30, 0.5);
 }
 
 .time h2{
